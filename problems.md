@@ -19,7 +19,7 @@ a(1) = 1
 a(n) = a(n-1) + a(n-2)
 ```
 
-so
+These are the first 6 fibonacci number:
 |n|fibonacci|
 |-|---------|
 |0|0|
