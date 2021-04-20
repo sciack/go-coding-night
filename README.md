@@ -6,7 +6,7 @@ During the coding night we explore go lang so this is the suggested software to 
 * Ide 
     * VSCode + Go plugin
     * JetBrain go (or IntellijUltimate + go)
-* You
+* Your entusiasm 
 
 I did some training with Mac and Linux, don't know how go works in Windows, last hope WLS2
 
@@ -63,7 +63,9 @@ go test
 
 ## Documentation
 
+Some link that could be useful
 
 * https://golang.org/doc/
 * https://golangdocs.com/
 * https://devhints.io/go
+* https://github.com/a8m/golang-cheat-sheet
